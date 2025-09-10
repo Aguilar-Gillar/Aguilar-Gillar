@@ -1,4 +1,4 @@
-![Banner](https://github.com/Aguilar-Gillar/Aguilar-Gillar/blob/7d32dda7f83933358f37b58efb2785add200835b/Banner_1200x400.png)
+![Banner](https://github.com/Aguilar-Gillar/Aguilar-Gillar/blob/29a0cb0a4bcc304e9634e143fe9fe58b508e0a2b/Banner_1200x400_filled.png)
 # 👋 ¡Hola, soy Jesús Hernández Aguilar!
 
 🎓 **Ingeniero en Sistemas Computacionales** en el Instituto Tecnológico de Orizaba  
