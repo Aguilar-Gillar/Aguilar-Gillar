@@ -9,9 +9,9 @@
 
 Tecnologías & Herramientas
 - **Frontend:** React, Tailwind CSS, Expo, TypeScript (TSX)  
-- **Backend:** Node.js, Express, NestJS, Prisma, PostgreSQL  
+- **Backend:** Node.js, NestJS, PostgreSQL  
 - **Control de versiones:** Git & GitHub  
-- **Otros:** Diseño gráfico, animación digital, marketing en redes sociales  
+
 
 ---
 Proyectos Destacados
